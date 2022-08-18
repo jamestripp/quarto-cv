@@ -4,33 +4,38 @@ title: "James Tripp - CV"
 
 ## Experience
 
-*Senior Research Software Engineer* University of Warwick
+*Senior Research Software Engineer* - IT Services, University of Warwick
+
 Oct 2021 - present
 
-Description
+* Wrote software and consulted for research project across the University
+* Designed and contributed to research infrastructure built on-prem and in Azure
+* Promoted excellent software development practices through teaching and outreach
 
-*Senior Academic Technologist* University of Warwick
+*Senior Academic Technologist* - Centre for Interdisciplinary Methodologies, University of Warwick
+
 Jun 2019 - Oct 2021
 
+* Taught technical labs on Machine Learning, Inferential Statistics and Digital Methods
+* Built a Linux infrastructure for delivering teaching and research
+
+*Academic Technologist* - Centre for Interdisciplinary Methodologies, University of Warwick
+
+Dec 2015 - Jun 2021
+
 Description
 
-*Academic Technologist*
-Centre for Interdisciplinary Methodologies, University of Warwick
+*Post-Doctoral Research Fellow*- Department of Psychology, University of Warwick
 
-Description
-
-*Post-Doctoral Research Fellow*
-Department of Psychology
+Oct 2013 - Sep 2019
 
 Description
 
 ## Qualifications
 
-PhD Psychology
-University of Warwick
+**University of Warwick** PhD Psychology
 
-BSc Psychology
-University of Warwick
+**University of Warwick** BSc(Hons) Psychology
 
 ## References
 
