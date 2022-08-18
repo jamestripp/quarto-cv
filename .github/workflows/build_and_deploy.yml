@@ -16,7 +16,7 @@ jobs:
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         with:
-          to: html # If set, it will be equivalent to `quarto render --to html`
+          to: pdf # If set, it will be equivalent to `quarto render --to html`
           path: cv # By default, the current working dir is used i.e `quarto render .`
       - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         name: Copy output dir contents to live gh-pages branch
