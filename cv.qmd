@@ -1,7 +1,37 @@
 ---
-title: "cv"
+title: "James Tripp - CV"
 ---
 
-## Quarto
+## Experience
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+*Senior Research Software Engineer* University of Warwick
+Oct 2021 - present
+
+Description
+
+*Senior Academic Technologist* University of Warwick
+Jun 2019 - Oct 2021
+
+Description
+
+*Academic Technologist*
+Centre for Interdisciplinary Methodologies, University of Warwick
+
+Description
+
+*Post-Doctoral Research Fellow*
+Department of Psychology
+
+Description
+
+## Qualifications
+
+PhD Psychology
+University of Warwick
+
+BSc Psychology
+University of Warwick
+
+## References
+
+Available on request
