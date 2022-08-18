@@ -1,3 +1,0 @@
-# test
-
-This is a test document to try out the quarto render function.

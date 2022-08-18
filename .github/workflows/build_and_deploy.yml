@@ -17,14 +17,14 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
         with:
           to: html # If set, it will be equivalent to `quarto render --to html`
-          path: docs # By default, the current working dir is used i.e `quarto render .`
+          path: cv # By default, the current working dir is used i.e `quarto render .`
       - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         name: Copy output dir contents to live gh-pages branch
         uses: s0/git-publish-subdir-action@develop
         env:
           REPO: self
           BRANCH: documents # The branch name where you want to push the output
-          FOLDER: docs # The directory where output is generated
+          FOLDER: cv # The directory where output is generated
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
           MESSAGE: "Build: ({sha}) {msg}" # The commit message
       - run: echo "🍏 This job's status is ${{ job.status }}."
