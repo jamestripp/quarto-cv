@@ -9,6 +9,10 @@ jobs:
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - name: Check out repository code
         uses: actions/checkout@v2
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         with:
